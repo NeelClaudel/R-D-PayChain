@@ -2,7 +2,7 @@
 
 Smart contracts have the potential to revolutionize salary payments in several innovative ways. By leveraging the properties of blockchain and smart contract functionality, companies can automate, streamline, and enhance their payroll processes. Here are some potential innovations in the domain of salary payments through smart contracts
 
-# Personnal research:
+# Personnal research: This Repo is suposed to evole into a blockchain smart contract protocol able to manage payment salary on Ethereum
 
 Implomenting a corporation salary payment system based on Ethereum Virtual Machine
 
