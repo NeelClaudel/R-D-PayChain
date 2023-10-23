@@ -40,7 +40,7 @@ Implomenting a corporation salary payment system based on Ethereum Virtual Machi
 
 While the potential innovations are promising, there are also challenges and considerations. Regulatory compliance, the volatility of cryptocurrencies, the potential for bugs in the contract code, and privacy concerns are some issues that need to be addressed before widespread adoption.
 
-1. **Instant Payments**
+### 1. Instant Payments
 
 The ability to process instant payments is one of the advantages of using smart contracts and blockchain technology. However, there are certain things to consider:
 
@@ -58,7 +58,7 @@ The ability to process instant payments is one of the advantages of using smart 
 
 - **Security**: Smart contracts are immutable once deployed. If there's a bug in the contract, funds can be lost. It's crucial to ensure contracts are audited and secure.
 
-### 2.Conditional Payments:
+### 2. Conditional Payments:
 
 Conditional payments through smart contracts offer a dynamic way to handle compensation, especially when tied to performance or predefined targets.
 
@@ -76,11 +76,11 @@ However, the challenge lies in how you validate these conditions. For conditions
 - **Multisignature Approvals**: Multiple parties can be required to approve a condition's fulfillment before the smart contract releases funds.
 - **DAOs (Decentralized Autonomous Organizations)**: A collective of members can vote or confirm when a condition is satisfied.
 
-### Revenue Splitting with Smart Contracts:
+**Revenue Splitting with Smart Contracts**:
 
 Smart contracts can also be designed to automatically split revenue among multiple parties based on predefined rules. Here's how it might work:
 
-1. **Fixed Percentages**: The contract is programmed to divide incoming funds (revenue) among various addresses based on set percentages. For instance, if there are three beneficiaries supposed to receive 50%, 30%, and 20%, the smart contract will handle this distribution automatically whenever funds are sent to it.
+- **Fixed Percentages**: The contract is programmed to divide incoming funds (revenue) among various addresses based on set percentages. For instance, if there are three beneficiaries supposed to receive 50%, 30%, and 20%, the smart contract will handle this distribution automatically whenever funds are sent to it.
 
 - **Dynamic Splits**: The revenue split can change based on conditions. For example, an employee might receive a higher percentage of revenue after completing a specific task or after a certain duration.
 
