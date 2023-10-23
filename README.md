@@ -58,11 +58,8 @@ The ability to process instant payments is one of the advantages of using smart 
 
 - **Security**: Smart contracts are immutable once deployed. If there's a bug in the contract, funds can be lost. It's crucial to ensure contracts are audited and secure.
 
-2. **Conditional Payments**
-
-Conditional payments through smart contracts offer a dynamic way to handle compensation, especially when tied to performance or predefined targets.
-
-### Conditional Payments:
+2. ### Conditional Payments:
+   Conditional payments through smart contracts offer a dynamic way to handle compensation, especially when tied to performance or predefined targets.
 
 Using smart contracts, conditions can be programmed directly into the contract's code. These conditions might be:
 
