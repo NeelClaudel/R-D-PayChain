@@ -15,9 +15,6 @@ Security Mechanisms:
 - Role-based access control ensures that only the owner can deposit and manually adjust withdrawal statuses.
 - A mapping tracks whether an employee has withdrawn to prevent double withdrawals.
 
-Caution:
-Before deploying the contract on a live network, a comprehensive audit is recommended to ensure the security and correctness of the code. This abstract provides a high-level overview and does not delve into the nuances of potential gas costs or specific Ethereum transactional behaviors.
-
 ---
 
 ### Variables:
